@@ -1,0 +1,9 @@
+{
+  "camera_distance": 400,
+  "earth_radius": 80,
+  "earth_segment": 80,
+  "satellite_radius": 1.2,
+  "satellite_segment": 10,
+  "url": "http://10.134.180.138:5000",
+  "monitor_url": "http://10.134.180.138:8080"
+}

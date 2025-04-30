@@ -1,0 +1,26 @@
+{
+  "starlink-gp1": {
+    "name": "Starlink-Gp1",
+    "track_height": 550,
+    "track_dip_angle": 53,
+    "track_count": 72,
+    "satellite_density": 22,
+    "phase_factor": 0
+  },
+  "oneweb": {
+    "name": "OneWeb",
+    "track_height": 1200,
+    "track_dip_angle": 87.9,
+    "track_count": 18,
+    "satellite_density": 40,
+    "phase_factor": 0
+  },
+  "iridium": {
+    "name": "铱星",
+    "track_height": 780,
+    "track_dip_angle": 86.39,
+    "track_count": 7,
+    "satellite_density": 11,
+    "phase_factor": 0
+  }
+}
