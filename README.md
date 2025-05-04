@@ -33,7 +33,7 @@ sudo snap install --classic go1.20
 
 1. `build_ubuntu`
 2. `build_python`
-3. `satellite_node`
+3. `satellite_node_docker`
 
 文件夹，执行`./build_dockerfile.sh`脚本
 如果提示`no such file or directory`, 请为其添加可执行权限
